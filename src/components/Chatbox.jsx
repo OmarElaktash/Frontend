@@ -16,8 +16,8 @@ export default function Chatbox({ user }) {
   const quickReplies = [
     "I'm feeling anxious",
     "Tell me about meditation",
-    "Feeling down",
-    "I'm having an amazing day",
+    "I'm feeling down",
+    "I'm feeling happy today, no mental health issues luckily",
   ];
 
   useEffect(() => {
